@@ -1,0 +1,81 @@
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #5a5c61;
+  backgroundColor: #e9edf5;
+  background-size: cover;
+  position: relative;
+padding : 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+#main {
+  position: relative;
+}
+
+
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  position: relative;
+  width: 20%;
+  padding: 100px 0;
+  margin: auto;
+}
+#logo {
+margin-left : 5%;
+}
+#logotext {
+font-weight: bold;
+color: #2e5aff;
+font-size: 1.5rem;
+}
+
+
+#header h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #2e5aff;
+}
+
+#header h2 {
+  color: #5a5c61;
+  margin-bottom: 40px;
+  font-size: 22px;
+}
+
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+  padding: 30px 0;
+  color: #5a5c61;
+  font-size: 14px;
+  position: relative;
+}
+
+#footer .copyright {
+  text-align: center;
+}
+
+#footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #5a5c61;
+}
+
+#footer .credits a {
+  color: #5a5c61;
+}
